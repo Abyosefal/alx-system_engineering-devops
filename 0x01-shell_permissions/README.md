@@ -1,5 +1,4 @@
-This subfolder is used to practice shell manipulation of file permission, It contains the 0x01-Shell_permissions practice tasks from ALS SE projects. The Files are as follows This folder contains scripts that m
-
+This subfolder is used to practice shell manipulation of file permission, It contains the 0x01-Shell_permissions practice tasks from ALS SE projects.
 0-iam_betty
   Create a script that switches the current user to the user betty.
 
