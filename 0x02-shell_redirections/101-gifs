@@ -1,0 +1,2 @@
+#!/bin/bash
+ll *.pdf -1X | sort
